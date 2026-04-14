@@ -132,9 +132,3 @@ It also reflects my growing interest in:
 * Data Science within SaaS platforms
 * Fintech infrastructure
 * Scalable system design
-
-## 🔗 Next Steps
-
-* Expand into a technical implementation mock (API integration simulation)
-* Build a dashboard analysing subscription metrics (MRR, churn)
-* Simulate A/B testing of payment providers
