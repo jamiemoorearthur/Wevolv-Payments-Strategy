@@ -1,7 +1,7 @@
 # 💳 Wevolv Payments Strategy (QA x Data Project)
 ## 📌 Overview
 
-This project showcases my experience working alongside a QA Engineer during my internship at a high-growth SaaS startup. The focus was on evaluating and stress-testing payment infrastructure decisions for a subscription-based mobile platform.
+This project demonstrate my experience working alongside a QA Engineer during my internship at a high-growth SaaS startup. The focus of this project on evaluating and stress-testing payment infrastructure decisions for a subscription-based mobile platform.
 
 The project demonstrates my ability to:
 
